@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         atv.setThreshold(1);
         atv.setAdapter(adapter);
         atv.setTextColor(Color.BLUE);
-
+//
 
         atv.setOnTouchListener(new View.OnTouchListener(){
             @Override
